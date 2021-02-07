@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\POO_PRODUTOS\bin\Debug\netcoreapp3.1\POO_PRODUTOS.exe
+C:\Users\ACER\Desktop\POO_PRODUTOS\bin\Debug\netcoreapp3.1\POO_PRODUTOS.deps.json
+C:\Users\ACER\Desktop\POO_PRODUTOS\bin\Debug\netcoreapp3.1\POO_PRODUTOS.runtimeconfig.json
+C:\Users\ACER\Desktop\POO_PRODUTOS\bin\Debug\netcoreapp3.1\POO_PRODUTOS.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\POO_PRODUTOS\bin\Debug\netcoreapp3.1\POO_PRODUTOS.dll
+C:\Users\ACER\Desktop\POO_PRODUTOS\bin\Debug\netcoreapp3.1\POO_PRODUTOS.pdb
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.AssemblyInfo.cs
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.dll
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.pdb
+C:\Users\ACER\Desktop\POO_PRODUTOS\obj\Debug\netcoreapp3.1\POO_PRODUTOS.genruntimeconfig.cache
